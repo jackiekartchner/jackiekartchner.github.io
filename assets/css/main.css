@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: linear-gradient(to right, rgba(0,0,0, 0.7) , rgba(0,0,0, 0.7)), url("images/overlay.png"), url("../../images/satellite_world.jpg");
+		background: linear-gradient(to right, rgba(0,0,0, 0.7) , rgba(0,0,0, 0.7)), url("images/overlay.png"), linear-gradient(to right, rgba(0,0,0, 0.7) , rgba(0,0,0, 0.7)), url("../../images/satellite_world.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
